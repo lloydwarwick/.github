@@ -4,10 +4,5 @@
   "iconName": "r_logo",
   "categories": [
     "R"
-  ],
-  "filePatterns": [
-    "^NAMESPACE$",
-    "^DESCRIPTION$",
-    ".*\\.R$"
   ]
 }
