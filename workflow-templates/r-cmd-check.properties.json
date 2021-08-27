@@ -1,0 +1,13 @@
+{
+  "name": "R CMD Check",
+  "description": "A workflow for running R CMD check on an R package",
+  "iconName": "r_logo",
+  "categories": [
+    "R"
+  ],
+  "filePatterns": [
+    "^NAMESPACE$",
+    "^DESCRIPTION$",
+    ".*\\.R$"
+  ]
+}
